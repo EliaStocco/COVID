@@ -1,0 +1,129 @@
+denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,totale_casi
+Abruzzo,66,L'Aquila,AQ,232
+Abruzzo,67,Teramo,TE,610
+Abruzzo,68,Pescara,PE,1005
+Abruzzo,69,Chieti,CH,499
+Abruzzo,979,In fase di definizione/aggiornamento,,0
+Basilicata,76,Potenza,PZ,167
+Basilicata,77,Matera,MT,169
+Basilicata,980,In fase di definizione/aggiornamento,,0
+Calabria,78,Cosenza,CS,357
+Calabria,79,Catanzaro,CZ,194
+Calabria,80,Reggio di Calabria,RC,269
+Calabria,101,Crotone,KR,117
+Calabria,102,Vibo Valentia,VV,70
+Calabria,982,In fase di definizione/aggiornamento,,2
+Campania,61,Caserta,CE,393
+Campania,62,Benevento,BN,157
+Campania,63,Napoli,,2072
+Campania,64,Avellino,AV,416
+Campania,65,Salerno,SA,587
+Campania,983,In fase di definizione/aggiornamento,,262
+Emilia-Romagna,33,Piacenza,PC,3249
+Emilia-Romagna,34,Parma,PR,2698
+Emilia-Romagna,35,Reggio nell'Emilia,RE,4053
+Emilia-Romagna,36,Modena,MO,3262
+Emilia-Romagna,37,Bologna,BO,3490
+Emilia-Romagna,38,Ferrara,FE,709
+Emilia-Romagna,39,Ravenna,RA,904
+Emilia-Romagna,40,Forlì-Cesena,FC,1347
+Emilia-Romagna,99,Rimini,RN,1774
+Emilia-Romagna,984,In fase di definizione/aggiornamento,,0
+Friuli Venezia Giulia,30,Udine,UD,895
+Friuli Venezia Giulia,31,Gorizia,GO,132
+Friuli Venezia Giulia,32,Trieste,TS,1011
+Friuli Venezia Giulia,93,Pordenone,PN,573
+Friuli Venezia Giulia,985,In fase di definizione/aggiornamento,,5
+Lazio,56,Viterbo,VT,338
+Lazio,57,Rieti,RI,277
+Lazio,58,Roma,RM,3767
+Lazio,59,Latina,LT,421
+Lazio,60,Frosinone,FR,497
+Lazio,986,In fase di definizione/aggiornamento,,80
+Liguria,8,Imperia,IM,1048
+Liguria,9,Savona,SV,749
+Liguria,10,Genova,GE,3522
+Liguria,11,La Spezia,SP,720
+Liguria,987,In fase di definizione/aggiornamento,,0
+Lombardia,12,Varese,VA,1953
+Lombardia,13,Como,CO,2233
+Lombardia,14,Sondrio,SO,864
+Lombardia,15,Milano,MI,14952
+Lombardia,16,Bergamo,BG,10518
+Lombardia,17,Brescia,BS,11355
+Lombardia,18,Pavia,PV,3390
+Lombardia,19,Cremona,CR,5273
+Lombardia,20,Mantova,MN,2691
+Lombardia,97,Lecco,LC,1986
+Lombardia,98,Lodi,LO,2626
+Lombardia,108,Monza e della Brianza,MB,3932
+Lombardia,988,In fase di definizione/aggiornamento,,1321
+Marche,41,Pesaro e Urbino,PU,2249
+Marche,42,Ancona,AN,1664
+Marche,43,Macerata,MC,871
+Marche,44,Ascoli Piceno,AP,266
+Marche,109,Fermo,FM,378
+Marche,989,In fase di definizione/aggiornamento,,154
+Molise,70,Campobasso,CB,197
+Molise,94,Isernia,IS,50
+Molise,990,In fase di definizione/aggiornamento,,16
+P.A. Bolzano,21,Bolzano,BZ,2267
+P.A. Bolzano,981,In fase di definizione/aggiornamento,,0
+P.A. Trento,22,Trento,TN,3294
+P.A. Trento,996,In fase di definizione/aggiornamento,,0
+Piemonte,1,Torino,TO,9116
+Piemonte,2,Vercelli,VC,912
+Piemonte,3,Novara,NO,1825
+Piemonte,4,Cuneo,CN,1814
+Piemonte,5,Asti,AT,925
+Piemonte,6,Alessandria,AL,2580
+Piemonte,96,Biella,BI,719
+Piemonte,103,Verbano-Cusio-Ossola,VB,910
+Piemonte,991,In fase di definizione/aggiornamento,,307
+Puglia,71,Foggia,FG,780
+Puglia,72,Bari,BA,1029
+Puglia,73,Taranto,TA,235
+Puglia,74,Brindisi,BR,428
+Puglia,75,Lecce,LE,427
+Puglia,110,Barletta-Andria-Trani,BT,330
+Puglia,992,In fase di definizione/aggiornamento,,29
+Sardegna,90,Sassari,SS,764
+Sardegna,91,Nuoro,NU,67
+Sardegna,92,Cagliari,CA,208
+Sardegna,95,Oristano,OR,39
+Sardegna,111,Sud Sardegna,SU,86
+Sardegna,993,In fase di definizione/aggiornamento,,0
+Sicilia,81,Trapani,TP,135
+Sicilia,82,Palermo,PA,399
+Sicilia,83,Messina,ME,456
+Sicilia,84,Agrigento,AG,132
+Sicilia,85,Caltanissetta,CL,138
+Sicilia,86,Enna,EN,341
+Sicilia,87,Catania,CT,735
+Sicilia,88,Ragusa,RG,69
+Sicilia,89,Siracusa,SR,174
+Sicilia,994,In fase di definizione/aggiornamento,,0
+Toscana,45,Massa Carrara,MS,893
+Toscana,46,Lucca,LU,1134
+Toscana,47,Pistoia,PT,536
+Toscana,48,Firenze,FI,2443
+Toscana,49,Livorno,LI,465
+Toscana,50,Pisa,PI,750
+Toscana,51,Arezzo,AR,530
+Toscana,52,Siena,SI,384
+Toscana,53,Grosseto,GR,368
+Toscana,100,Prato,PO,440
+Toscana,995,In fase di definizione/aggiornamento,,0
+Umbria,54,Perugia,PG,963
+Umbria,55,Terni,TR,318
+Umbria,997,In fase di definizione/aggiornamento,,48
+Valle d'Aosta,7,Aosta,AO,971
+Valle d'Aosta,998,In fase di definizione/aggiornamento,,0
+Veneto,23,Verona,VR,3730
+Veneto,24,Vicenza,VI,2170
+Veneto,25,Belluno,BL,755
+Veneto,26,Treviso,TV,2135
+Veneto,27,Venezia,VE,2036
+Veneto,28,Padova,PD,3537
+Veneto,29,Rovigo,RO,297
+Veneto,999,In fase di definizione/aggiornamento,,330

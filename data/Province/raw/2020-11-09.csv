@@ -1,0 +1,150 @@
+denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,totale_casi
+Abruzzo,66,L'Aquila,AQ,4531
+Abruzzo,67,Teramo,TE,3967
+Abruzzo,68,Pescara,PE,3391
+Abruzzo,69,Chieti,CH,2928
+Abruzzo,879,Fuori Regione / Provincia Autonoma,,134
+Abruzzo,979,In fase di definizione/aggiornamento,,192
+Basilicata,76,Potenza,PZ,2090
+Basilicata,77,Matera,MT,1345
+Basilicata,880,Fuori Regione / Provincia Autonoma,,220
+Basilicata,980,In fase di definizione/aggiornamento,,0
+Calabria,78,Cosenza,CS,2409
+Calabria,79,Catanzaro,CZ,1202
+Calabria,80,Reggio di Calabria,RC,3125
+Calabria,101,Crotone,KR,485
+Calabria,102,Vibo Valentia,VV,289
+Calabria,882,Fuori Regione / Provincia Autonoma,,398
+Calabria,982,In fase di definizione/aggiornamento,,0
+Campania,61,Caserta,CE,16502
+Campania,62,Benevento,BN,1286
+Campania,63,Napoli,,55621
+Campania,64,Avellino,AV,4433
+Campania,65,Salerno,SA,9677
+Campania,883,Fuori Regione / Provincia Autonoma,,0
+Campania,983,In fase di definizione/aggiornamento,,2520
+Emilia-Romagna,33,Piacenza,PC,8206
+Emilia-Romagna,34,Parma,PR,6894
+Emilia-Romagna,35,Reggio nell'Emilia,RE,11311
+Emilia-Romagna,36,Modena,MO,11618
+Emilia-Romagna,37,Bologna,BO,15549
+Emilia-Romagna,38,Ferrara,FE,3401
+Emilia-Romagna,39,Ravenna,RA,4125
+Emilia-Romagna,40,Forlì-Cesena,FC,5129
+Emilia-Romagna,99,Rimini,RN,5703
+Emilia-Romagna,884,Fuori Regione / Provincia Autonoma,,1081
+Emilia-Romagna,984,In fase di definizione/aggiornamento,,415
+Friuli Venezia Giulia,30,Udine,UD,5984
+Friuli Venezia Giulia,31,Gorizia,GO,1579
+Friuli Venezia Giulia,32,Trieste,TS,4594
+Friuli Venezia Giulia,93,Pordenone,PN,2709
+Friuli Venezia Giulia,885,Fuori Regione / Provincia Autonoma,,182
+Friuli Venezia Giulia,985,In fase di definizione/aggiornamento,,0
+Lazio,56,Viterbo,VT,4963
+Lazio,57,Rieti,RI,1514
+Lazio,58,Roma,RM,48624
+Lazio,59,Latina,LT,5334
+Lazio,60,Frosinone,FR,6519
+Lazio,886,Fuori Regione / Provincia Autonoma,,992
+Lazio,986,In fase di definizione/aggiornamento,,21
+Liguria,8,Imperia,IM,3761
+Liguria,9,Savona,SV,4180
+Liguria,10,Genova,GE,22180
+Liguria,11,La Spezia,SP,4795
+Liguria,887,Fuori Regione / Provincia Autonoma,,763
+Liguria,987,In fase di definizione/aggiornamento,,1289
+Lombardia,12,Varese,VA,22031
+Lombardia,13,Como,CO,14691
+Lombardia,14,Sondrio,SO,3724
+Lombardia,15,Milano,MI,99590
+Lombardia,16,Bergamo,BG,20390
+Lombardia,17,Brescia,BS,25690
+Lombardia,18,Pavia,PV,13294
+Lombardia,19,Cremona,CR,9946
+Lombardia,20,Mantova,MN,7389
+Lombardia,97,Lecco,LC,7253
+Lombardia,98,Lodi,LO,6377
+Lombardia,108,Monza e della Brianza,MB,27110
+Lombardia,888,Fuori Regione / Provincia Autonoma,,3055
+Lombardia,988,In fase di definizione/aggiornamento,,4991
+Marche,41,Pesaro e Urbino,PU,4173
+Marche,42,Ancona,AN,5692
+Marche,43,Macerata,MC,3792
+Marche,44,Ascoli Piceno,AP,2537
+Marche,109,Fermo,FM,2203
+Marche,889,Fuori Regione / Provincia Autonoma,,654
+Marche,989,In fase di definizione/aggiornamento,,0
+Molise,70,Campobasso,CB,1530
+Molise,94,Isernia,IS,975
+Molise,890,Fuori Regione / Provincia Autonoma,,35
+Molise,990,In fase di definizione/aggiornamento,,0
+P.A. Bolzano,21,Bolzano,BZ,13709
+P.A. Bolzano,881,Fuori Regione / Provincia Autonoma,,0
+P.A. Bolzano,981,In fase di definizione/aggiornamento,,0
+P.A. Trento,22,Trento,TN,11143
+P.A. Trento,896,Fuori Regione / Provincia Autonoma,,0
+P.A. Trento,996,In fase di definizione/aggiornamento,,0
+Piemonte,1,Torino,TO,55690
+Piemonte,2,Vercelli,VC,3677
+Piemonte,3,Novara,NO,7385
+Piemonte,4,Cuneo,CN,12872
+Piemonte,5,Asti,AT,4660
+Piemonte,6,Alessandria,AL,8773
+Piemonte,96,Biella,BI,3227
+Piemonte,103,Verbano-Cusio-Ossola,VB,2652
+Piemonte,891,Fuori Regione / Provincia Autonoma,,645
+Piemonte,991,In fase di definizione/aggiornamento,,1074
+Puglia,71,Foggia,FG,6388
+Puglia,72,Bari,BA,10382
+Puglia,73,Taranto,TA,2679
+Puglia,74,Brindisi,BR,1905
+Puglia,75,Lecce,LE,1953
+Puglia,110,Barletta-Andria-Trani,BT,2939
+Puglia,892,Fuori Regione / Provincia Autonoma,,185
+Puglia,992,In fase di definizione/aggiornamento,,0
+Sardegna,90,Sassari,SS,5371
+Sardegna,91,Nuoro,NU,1503
+Sardegna,92,Cagliari,CA,2547
+Sardegna,95,Oristano,OR,1067
+Sardegna,111,Sud Sardegna,SU,2100
+Sardegna,893,Fuori Regione / Provincia Autonoma,,0
+Sardegna,993,In fase di definizione/aggiornamento,,0
+Sicilia,81,Trapani,TP,2260
+Sicilia,82,Palermo,PA,9674
+Sicilia,83,Messina,ME,2966
+Sicilia,84,Agrigento,AG,1283
+Sicilia,85,Caltanissetta,CL,1284
+Sicilia,86,Enna,EN,1138
+Sicilia,87,Catania,CT,8340
+Sicilia,88,Ragusa,RG,3072
+Sicilia,89,Siracusa,SR,2252
+Sicilia,894,Fuori Regione / Provincia Autonoma,,0
+Sicilia,994,In fase di definizione/aggiornamento,,25
+Toscana,45,Massa Carrara,MS,3581
+Toscana,46,Lucca,LU,6157
+Toscana,47,Pistoia,PT,5339
+Toscana,48,Firenze,FI,19304
+Toscana,49,Livorno,LI,4690
+Toscana,50,Pisa,PI,8682
+Toscana,51,Arezzo,AR,6390
+Toscana,52,Siena,SI,2794
+Toscana,53,Grosseto,GR,2043
+Toscana,100,Prato,PO,5655
+Toscana,895,Fuori Regione / Provincia Autonoma,,555
+Toscana,995,In fase di definizione/aggiornamento,,0
+Umbria,54,Perugia,PG,11081
+Umbria,55,Terni,TR,3452
+Umbria,897,Fuori Regione / Provincia Autonoma,,720
+Umbria,997,In fase di definizione/aggiornamento,,0
+Valle d'Aosta,7,Aosta,AO,4280
+Valle d'Aosta,898,Fuori Regione / Provincia Autonoma,,56
+Valle d'Aosta,998,In fase di definizione/aggiornamento,,0
+Veneto,23,Verona,VR,15114
+Veneto,24,Vicenza,VI,14212
+Veneto,25,Belluno,BL,4641
+Veneto,26,Treviso,TV,16305
+Veneto,27,Venezia,VE,11715
+Veneto,28,Padova,PD,15610
+Veneto,29,Rovigo,RO,2142
+Veneto,899,Fuori Regione / Provincia Autonoma,,1448
+Veneto,999,In fase di definizione/aggiornamento,,305
